@@ -1,2 +1,2 @@
 # m1SimpleExt
-Simple magento 1.9.x extension
+Sample of simple magento 1.9.x extension that does nothing that just exists.
