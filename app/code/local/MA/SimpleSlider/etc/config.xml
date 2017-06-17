@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <MA_SimpleSlider>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends />
+        </MA_SimpleSlider>
+    </modules>
+</config>
